@@ -1,0 +1,7 @@
+C:\GiftOfGod\Holmesglen\2025\Web Framework\Projects\TestCore\TestCore\obj\Release\net8.0\PubTmp\Out\TestCore.exe
+C:\GiftOfGod\Holmesglen\2025\Web Framework\Projects\TestCore\TestCore\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\GiftOfGod\Holmesglen\2025\Web Framework\Projects\TestCore\TestCore\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\GiftOfGod\Holmesglen\2025\Web Framework\Projects\TestCore\TestCore\obj\Release\net8.0\PubTmp\Out\TestCore.dll
+C:\GiftOfGod\Holmesglen\2025\Web Framework\Projects\TestCore\TestCore\obj\Release\net8.0\PubTmp\Out\TestCore.deps.json
+C:\GiftOfGod\Holmesglen\2025\Web Framework\Projects\TestCore\TestCore\obj\Release\net8.0\PubTmp\Out\TestCore.runtimeconfig.json
+C:\GiftOfGod\Holmesglen\2025\Web Framework\Projects\TestCore\TestCore\obj\Release\net8.0\PubTmp\Out\TestCore.pdb
